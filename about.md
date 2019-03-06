@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A software extremist looking to solve problems constantly. There are many pages "like this, but this one is mine."
+A software professional and enthusiast looking to solve problems constantly. There are many blogs "like this, but this one is mine."
 
 ### More Information
 
