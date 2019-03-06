@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A software extremist looking to solve problems constantly. Their are many pages "like this, but this one is mine."
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A passionate electronics/software geek, calligraphy/fountain pen fanatic, poetry/painter dabbler, and amateur astronomer.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[georgeacraig@gmail.com](mailto:george a craig at gmail dot com)
