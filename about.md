@@ -8,7 +8,7 @@ A software professional and enthusiast looking to solve problems constantly. The
 
 ### More Information
 
-A passionate electronics/software geek, calligraphy/fountain pen fanatic, poetry/painter dabbler, and amateur astronomer.
+A passionate electronics/software geek, calligraphy/fountain pen fanatic, poetry/painter dabbler, aspiring sci-fi writer, contributer to cochlear implant information and amateur astronomer. Let's see how this turns out. Strange days will follow.
 
 ### Contact me
 
