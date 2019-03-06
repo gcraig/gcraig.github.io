@@ -12,4 +12,4 @@ A passionate electronics/software geek, calligraphy/fountain pen fanatic, poetry
 
 ### Contact me
 
-[george a craig at gmail dot com](mailto:georgeacraig@gmail.com)
+[georgeacraig@gmail.com](mailto:georgeacraig@gmail.com)
