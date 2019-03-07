@@ -7,4 +7,4 @@ This is the first post to the CSR Development blog "Reflections" - a more person
 
 Let's hope we connect in a meaningful and rewarding manner. I hope to share as much as I learn. Thanks for reading!
 
-&minus; Geo
+&minus; Geo 
