@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First Post!
+tags: initial
 ---
 
 This is the first post to the CSR Development blog "Reflections" - a more personal collection of a number of topics - while Twitter.com/CSRDev will remain the professional social media connection to the organization. 
