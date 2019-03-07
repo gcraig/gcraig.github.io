@@ -13,3 +13,5 @@ A passionate electronics/software developer, calligraphy/fountain pen fanatic, a
 ### Contact me
 
 [georgeacraig@gmail.com](mailto:georgeacraig@gmail.com)
+[gc@gcraig.dev](mailto:gc@gcraig.dev)
+[gcraig.dev](gcraig.dev)
