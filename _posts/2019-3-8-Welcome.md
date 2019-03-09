@@ -8,4 +8,4 @@ Welcome to CSR Development's blog, reflecting on all sorts of interesting topics
 
 Let's hope to connect in a meaningful and rewarding manner. I hope we share as much we learn from you. Thanks for reading!
 
-&minus; GC
+&minus;gc
