@@ -2,6 +2,7 @@
 layout: post
 title: Welcome
 tags: initial
+permalink: /george
 ---
 
 Welcome to CSR Development's blog, reflecting on all sorts of interesting topics including: software, electronincs, writing, art, cochlear implants, astronomy, and any other various way to improve life through technnology. These posts will cover a broader range of subjects while Twitter's CSRDev account (twitter.com/CSRDev) will be geared more towards the professional face of the organization. 
