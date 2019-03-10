@@ -5,7 +5,7 @@ tags: general
 permalink: /welcome
 ---
 
-Welcome to our blog, CSR Development's and mine, reflecting on all sorts of interesting topics including: software, electronics, writing, art, cochlear implants, astronomy, and any other various way to improve life through technnology. 
+Welcome to our blog, CSR Development's and mine, reflecting on all sorts of interesting topics including: software, electronics, writing, art, cochlear implants, astronomy, and any other way to improve life through technnology. 
 
 These posts will cover a broader range of subjects while Twitter's CSRDev account [twitter.com/CSRDev](https://www.twitter.com/CSRDev) will be geared more towards the professional face of the organization.
 
