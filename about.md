@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A software enthusiast and professional looking to solve interesting complex problems. There are many blogs like this, but this one is mine.
+A software professional and enthusiast looking to solve interesting and complex problems. There are many blogs like this, but this one is mine.
 
 ### More Information
 
