@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A software enthusiast and professional looking to solve interesting complex problems. There are many (bug) blogs "like this, but this one is mine."
+A software enthusiast and professional looking to solve interesting complex problems. There are many blogs like this, but this one is mine.
 
 ### More Information
 
@@ -13,6 +13,8 @@ A passionate electronics/software developer, calligraphy/fountain pen fanatic, a
 ### Contact me
 
 [georgeacraig@gmail.com](mailto:georgeacraig@gmail.com)<br>
-[https://www.csrdevco.com](https://www.csrdevco.com)<br><br>
+[https://www.csrdevco.com](https://www.csrdevco.com)
+
+
 [gc@gcraig.dev](mailto:gc@gcraig.dev)<br>
 [https://gcraig.dev](https://gcraig.dev)
