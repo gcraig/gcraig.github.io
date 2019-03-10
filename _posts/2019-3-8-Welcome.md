@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome
-tags: general, welcome, georgie, hi
+tags: general
 permalink: /welcome
 ---
 
