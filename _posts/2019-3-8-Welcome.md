@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Welcome
-tags: initial
-tag: initial
+tags: general
 permalink: /welcome
 ---
 
