@@ -2,7 +2,7 @@
 layout: post
 title: Welcome
 tags: general
-permalink: /welcome
+permalink: /welcome 
 ---
 
 Welcome to our blog reflecting on all sorts of interesting topics including: software, electronics, writing, art, cochlear implants, astronomy, and many other ways to improve life through technnology. 
