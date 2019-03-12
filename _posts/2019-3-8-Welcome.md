@@ -11,4 +11,3 @@ These posts will cover a broad range of subjects while Twitter's CSRDev account 
 
 I hope we connect in a meaningful and rewarding manner. Sharing something important, returning the favor; we've learned so much from all of you. Thanks for reading.
 
-George
