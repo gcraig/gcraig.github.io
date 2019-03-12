@@ -8,6 +8,7 @@
 @import "reset";
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css?family=Average');
 
 // Syntax highlighting @import is at the bottom of this file
 
@@ -200,7 +201,7 @@ img {
   color: $darkGray;
   cursor: pointer;
   /*font-family: $helveticaNeue;*/
-  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial;
+  font-family: "Average", "Noto Sans", "Helvetica Neue", Helvetica, Arial;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -220,7 +221,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   /*font-family: $helveticaNeue;*/
-  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial;
+  font-family: "Average", "Noto Sans", "Helvetica Neue", Helvetica, Arial;
   font-size: 18px;
 
   @include mobile {
