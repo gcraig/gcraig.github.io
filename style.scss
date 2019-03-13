@@ -35,9 +35,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  /* font-family: $helveticaNeue; */
-  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial;
-  color: $darkerGray;
+  /* font-family: $helveticaNeue; 
+  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial;*/
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial;
+  color: #3e3e3e;
+  /*color: $darkerGray;*/
   font-weight: bold;
 
   line-height: 1.7;
@@ -54,6 +56,10 @@ h1 {
   font-size: 28px;
   a {
     color: inherit;
+  }
+  a:hover {
+	  font-weight: bolder;
+	  border-bottom: 2px solid #3e3e3e
   }
 }
 
