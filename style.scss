@@ -232,7 +232,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   /*font-family: $helveticaNeue;*/
-  font-family: "Average", "Noto Sans", "Helvetica Neue", Helvetica, Arial;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial;
   font-size: 18px;
 
   @include mobile {
@@ -241,7 +241,11 @@ nav {
     display: block;
     font-size: 16px;
   }
-
+	
+  a:hover {
+	  font-weight: bolder;
+	  border-bottom: 2px solid #3e3e3e;
+	}
   a {
     margin-left: 20px;
     color: $darkGray;
