@@ -8,6 +8,7 @@
 @import "reset";
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Average');
 
 // Syntax highlighting @import is at the bottom of this file
@@ -198,10 +199,13 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  /*color: $darkGray;*/
+  color: #3e3e3e;
   cursor: pointer;
   /*font-family: $helveticaNeue;*/
-  font-family: "Average", "Noto Sans", "Helvetica Neue", Helvetica, Arial;
+  /*font-family: "Average", "Noto Sans", "Helvetica Neue", Helvetica, Arial;*/
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial;
+	
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -209,7 +213,8 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  /*color: $gray;*/
+  color: #3e3e3e;
   font-size: 16px;
 
   @include mobile {
